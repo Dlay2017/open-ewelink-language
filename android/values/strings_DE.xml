@@ -54,17 +54,17 @@
     <string name="Save">Speichern</string>
     <string name="cancel">Abbrechen</string>
     <string name="test_wechat">Teste wechat</string>
-    <string name="group_exits">Grouping already exists</string>
+    <string name="group_exits">Gruppe existiert bereits</string>
     <string name="delete_group">All devices of the deleted group will still exist.Are you sure you want to delete the group?</string>
     <string name="change_device">Ändere Gerätename</string>
 
-    <string name="info_not_change">Only owner has authority to change device name</string>
+    <string name="info_not_change">Nur der Besitzer kann den Namen des Gerätes ändern</string>
     <string name="change_name_success">Änderung erfolgreich</string>
     <string name="change_name_failed">Namensänderung fehlgeschlagen</string>
     <string name="waiting">Warte...</string>
     <string name="divece_name">Gerätename:</string>
-    <string name="device_name_not">Device name can not be empty</string>
-    <string name="timer">Timing</string>
+    <string name="device_name_not">Gerätename darf nicht leer sein</string>
+    <string name="timer">Zeitplanung</string>
     <string name="once">Einmalig</string>
     <string name="everyday">Jeden Tag</string>
     <string name="day">Tag</string>
@@ -77,7 +77,7 @@
 
     <string name="add_timer_failed">Timer nicht hinzugefügt</string>
     <string name="delete_timer_failed">Timer nicht gelöscht</string>
-    <string name="timer_set_err">Time overdue</string>
+    <string name="timer_set_err">Zeit überfällig</string>
     <string name="only_number">Nur 8 Timer sind erlaubt.</string>
 
 
@@ -88,66 +88,66 @@
     <string name="enter_phone_numbers">Telefonnummer/Email</string>
     <string name="registering">Registriere...</string>
     <string name="resend">s resend</string>
-    <string name="change_user_info">Change user info</string>
-    <string name="enter_name">Enter new nickname</string>
-    <string name="name_not">Nickname can not be empty</string>
-    <string name="modify_name_success">Modify successfully</string>
-    <string name="modify_name_failed">Modify nickname failed</string>
-    <string name="change_password">Old Password</string>
+    <string name="change_user_info">Ändere Benutzerinformation</string>
+    <string name="enter_name">Neuen Nickname eingeben</string>
+    <string name="name_not">Nickname darf nicht leer sein</string>
+    <string name="modify_name_success">Änderung erfolgreich</string>
+    <string name="modify_name_failed">Änderung fehlgeschlagen</string>
+    <string name="change_password">Altes Passwort</string>
     <string name="email_number">Email number</string>
     <string name="email_code">Email code</string>
-    <string name="sms_number">Telphone number</string>
-    <string name="sms_code">Send Code</string>
+    <string name="sms_number">Telefonnummer</string>
+    <string name="sms_code">Code senden</string>
 
-    <string name="old_paswd_not">Old password can not be empty</string>
-    <string name="new_paswd_not">New password can not be empty</string>
+    <string name="old_paswd_not">Altes Passwort darf nicht leer sein</string>
+    <string name="new_paswd_not">Neues Passwort darf nicht leer sein</string>
     <string name="secondary_not">Confirm password can not be empty</string>
-    <string name="two_passwords_notsam">New password does not match</string>
-    <string name="info_old_paswd">Password must contain at least 8 characters</string>
-    <string name="info_fomat_paswd">At least 8 characters</string>
-    <string name="info_check_internet">No network, please check network status</string>
+    <string name="two_passwords_notsam">Neues Passwort stimmt nicht überein</string>
+    <string name="info_old_paswd">Das Passwort muss mindestens 8 Zeichen enthalten</string>
+    <string name="info_fomat_paswd">Mindestens 8 Zeichen</string>
+    <string name="info_check_internet">Kein Netzwerk, bitte überprüfen</string>
 
-    <string name="info_fomat_email">Please fill in a  valid E-mail </string>
+    <string name="info_fomat_email">Bitte gültige E-Mail-Adresse eintragen</string>
 
-    <string name="info_again_enter">Wrong old passwor, please re-enter</string>
-    <string name="change_password_failed">Failed to modify password:</string>
-    <string name="change_susess">Change successfully</string>
-    <string name="user">User</string>
-    <string name="user_online">User offline</string>
-    <string name="user_exist">User not exist</string>
-    <string name="share_success">Successfully</string>
-    <string name="user_denied">Refused</string>
-    <string name="user_sharex">Already shared</string>
+    <string name="info_again_enter">Altes Passwort falsch, bitte erneut eingeben</string>
+    <string name="change_password_failed">Passortänderung fehlgeschlagen:</string>
+    <string name="change_susess">Änderung erfolgreich</string>
+    <string name="user">Benutzer</string>
+    <string name="user_online">Benutzer offline</string>
+    <string name="user_exist">Benutzer existiert nicht</string>
+    <string name="share_success">Erfolgreich</string>
+    <string name="user_denied">Verweigert</string>
+    <string name="user_sharex">Bereits geteilt</string>
     <string name="share_outtime">Share timeout</string>
-    <string name="wait_requset">Confirming</string>
-    <string name="share_device">Share Device</string>
-    <string name="repeat_time">Repeat timing</string>
+    <string name="wait_requset">Bestätige</string>
+    <string name="share_device">Gerät teilen</string>
+    <string name="repeat_time">Wiederhole Zeitplanung</string>
 
-    <string name="select_user">Select a user</string>
-    <string name="enter_phone_number">Wrong phone number</string>
+    <string name="select_user">Benutzer wählen</string>
+    <string name="enter_phone_number">Falsche Telefonnummer</string>
     <string name="not_share_own">Share to yourself is not allowed</string>
-    <string name="has_share">Already shared</string>
+    <string name="has_share">Bereits geteilt</string>
     <string name="err_cmdorfomat">Wrong command or format</string>
-    <string name="err_server">Server internal error</string>
+    <string name="err_server">Interner Server-Fehler</string>
     <string name="not_even">The response number is not an even number:</string>
-    <string name="only_english">Only allowed english</string>
-    <string name="err_length">Length more than 512 characters</string>
+    <string name="only_english">Nur in Englisch erlaubt</string>
+    <string name="err_length">Länge beträgt mehr als 512 Zeichen</string>
     <string name="enter_not_null">Input can not be empty</string>
-    <string name="device_info_title">Device info</string>
-    <string name="del_dialog">Deleting Timer...</string>
+    <string name="device_info_title">Geräteinformation</string>
+    <string name="del_dialog">Lösche Timer...</string>
 
-    <string name="err_fomat">Wrong Format:</string>
+    <string name="err_fomat">Falsches Format:</string>
     <string name="logining">Logging</string>
-    <string name="committime">Creating timer...</string>
+    <string name="committime">Erstelle Timer...</string>
     <string name="login_failed">Login failed,wrong account number or password</string>
-    <string name="login_failed_normal">Login failed</string>
+    <string name="login_failed_normal">Login fehlgeschlagen</string>
     <string name="shook_on">Shake head mode: open</string>
     <string name="shook_off">Shake head mode: off</string>
-    <string name="device_one">Device 1</string>
-    <string name="device_two">Device 2</string>
-    <string name="device_three">Device 3</string>
-    <string name="device_four">Device 4</string>
-    <string name="register_success">Registered Successfully</string>
+    <string name="device_one">Gerät 1</string>
+    <string name="device_two">Gerät 2</string>
+    <string name="device_three">Gerät 3</string>
+    <string name="device_four">Gerät 4</string>
+    <string name="register_success">Erfolgreich registriert</string>
 
     <string name="switch_net_error">Switch network error, please add again</string>
     <string name="connect_failed">Make sure the device is in pairing status</string>
@@ -155,11 +155,11 @@
     <string name="repeat_password_success">Password reset successfully</string>
     <string name="register_failed">Failed to registration</string>
     <string name="downloading">Downloading</string>
-    <string name="download_failed">Download failed, click to download again</string>
-    <string name="downloaded">Download completed</string>
-    <string name="download_install">Download completed, click to install</string>
-    <string name="download_complete">Download completed(</string>
-    <string name="not_internet">No available network</string>
+    <string name="download_failed">Download fehlgeschlagen, Klick für erneuten Versuch</string>
+    <string name="downloaded">Download komplett</string>
+    <string name="download_install">Download komplett, Klick für Installation</string>
+    <string name="download_complete">Download komplett(</string>
+    <string name="not_internet">Kein Netzwerk verfügbar</string>
 
     <string name="add_group">Neue Gruppe</string>
     <string name="add_device_group">Neue Gerätegruppe</string>
@@ -199,7 +199,7 @@
     <string name="clear_result">Clear result</string>
     <string name="share">Share</string>
     <string name="display_send">Display sending</string>
-    <string name="send_verification_code">Send</string>
+    <string name="send_verification_code">Sende</string>
     <string name="register">Register</string>
     <string name="personal_infomation">Personal information</string>
 
@@ -207,13 +207,13 @@
     <string name="intelligent_scene">eWeLink scene</string>
     <string name="feedback">Feedback</string>
     <string name="login">Login</string>
-    <string name="info_reset_password">Forget Password</string>
-    <string name="return_op">Return</string>
-    <string name="return_space">Return</string>
+    <string name="info_reset_password">Passwort vergessen</string>
+    <string name="return_op">Zurück</string>
+    <string name="return_space">Zurück</string>
 
     <string name="discovered_device">Found Devices</string>
     <string name="select_add_device">Select a device to add</string>
-    <string name="next">Next</string>
+    <string name="next">Nächste</string>
     <string name="config_discover_device">Config found devices</string>
     <string name="remember_wifi_password">Remember WiFi password</string>
     <string name="name_device">Name this device</string>
@@ -223,22 +223,22 @@
     <string name="third_gear">third gear</string>
 
     <string name="stall_mode">stall mode</string>
-    <string name="temperature_mode">temperature mode</string>
-    <string name="current_temperature">current temperature</string>
+    <string name="temperature_mode">Temperatur Modus</string>
+    <string name="current_temperature">Aktuelle Temperatur</string>
     <string name="loading">Lade...</string>
-    <string name="old_password">Old Password</string>
-    <string name="new_password">New Password</string>
-    <string name="enter_new_passwod">enter new password</string>
-    <string name="again_new_password">enter new password</string>
+    <string name="old_password">Altes Passwort</string>
+    <string name="new_password">Neues Passwort</string>
+    <string name="enter_new_passwod">Neues Passwort eingeben</string>
+    <string name="again_new_password">Neues Passwort eingeben</string>
     <string name="set_group_nameicon">Name the group and set icon</string>
-    <string name="enter_group_name">Input group name</string>
-    <string name="selected_icon">choose icon</string>
-    <string name="upload_icon">upload icon</string>
+    <string name="enter_group_name">Gruppenname eingeben</string>
+    <string name="selected_icon">Icon wählen</string>
+    <string name="upload_icon">Icon hochladen</string>
 
     <string name="enter_share_nuber">Enter the phone number you want to share</string>
     <string name="find_new_version">A new version found, please upgrade</string>
     <string name="upgrade">Upgrade</string>
-    <string name="enter_device_name">Enter new name</string>
+    <string name="enter_device_name">Neuen Namen eingeben</string>
     <string name="recevice_equipment">You have recieved a shared device invitation message</string>
     <string name="my_devices">Mein Gerät</string>
     <string name="delete">Löschen</string>
@@ -246,7 +246,7 @@
 
     <string name="register_users">register</string>
     <string name="login_btn">Login button</string>
-    <string name="reset_password">Reset password</string>
+    <string name="reset_password">Passwort zurücksetzen</string>
     <string name="send_notification_msg">Send notification msg</string>
     <string name="set_timer_time">Once Timing</string>
     <string name="set_repeat_time">Repeat Timing</string>
@@ -276,8 +276,8 @@
     <string name="not_intent_word">There is no available WiFi</string>
     <string name="select_date">Please choose at least one day</string>
     <string name="title_update">Fireware upgrading, please wait</string>
-    <string name="lineoff_device">Device offline</string>
-    <string name="deviceupdate">Upgrading fireware</string>
+    <string name="lineoff_device">Gerät offline</string>
+    <string name="deviceupdate">Upgrading firmware</string>
     <string name="timers">Timer</string>
     <string name="everydays">Täglich</string>
     <string name="workdate">Werktags</string>
@@ -303,14 +303,14 @@
     <string name="dataerr">Data error,please add again</string>
     <string name="dev_offline">Gerät offline</string>
     <string name="outtimer">Request timeout</string>
-    <string name="choice_part">Select a region</string>
+    <string name="choice_part">Region auswählen</string>
     <string name="version">Test</string>
     <string name="about_coolkit_weixin">If you have successfully added device, as long as you follow our official WeChat, you can directly control all your devices through accessing WeChat. Simply scan the QR code above to follow our Wechat account.</string>
 
     <string name="error_sms_code">Wrong verification code, please try again</string>
-    <string name="reset_error">Reset error</string>
-    <string name="reset_fail">Reset failed</string>
-    <string name="dont_reset_agin">Account is exsit,Please do not register again</string>
+    <string name="reset_error">Reset Felher</string>
+    <string name="reset_fail">Reset fehlgeschlagen</string>
+    <string name="dont_reset_agin">Account existiert bereits, bitte nicht erneut registrieren</string>
     <string name="countrycode_smscode_error">Wrong country code or verification code</string>
 
     <string name="send_msg_limit">Request verification code frequestly</string>
@@ -332,12 +332,12 @@
     <string name="connectto_nopwd">No password entered, are you sure selected WiFi has no password? Click sure to continue</string>
     <string name="infoweek">Woche</string>
     <string name="equesdate">Time setting error, you can not set timer for current time</string>
-    <string name="SSID_no_chinese">SSID cannot contain Chinese characters</string>
-    <string name="pwd_no_chinese">Password can not contain Chinese characters</string>
+    <string name="SSID_no_chinese">SSID darf keine chinesischen Zeichen enthalten</string>
+    <string name="pwd_no_chinese">Passwort darf keine chinesischen Zeichen enthalten</string>
     <string name="Wifi_Name">Device access WiFi:</string>
     <string name="Wifi_PassWord">WiFi Passwort:</string>
     <string name="wifi_password_none">Passwort ist leer</string>
-    <string name="change_name">Change device name</string>
+    <string name="change_name">Gerätenamen ändern</string>
     <string name="only_owner">Only the owner can view</string>
     <string name="productinfo">Geräte-Infomation</string>
     <string name="notgrade">Neueste</string>
