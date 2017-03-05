@@ -1,92 +1,92 @@
 <resources>
 
-    <string name="upgrade_immediately">upgrade immediately</string>
-    <string name="about_kuzhai">About %1$s</string>
-    <string name="info_updates">Current version is latest version</string>
-    <string name="err_internet">Network error, please make sure the device is in configuration mode.</string>
-    <string name="not_found_device">No devices found, please make sure the device is in configuration mode.</string>
-    <string name="not_device">Device not exist</string>
-    <string name="air_cleaner">Air cleaner</string>
-    <string name="best">Best</string>
-    <string name="fine">Fine</string>
-    <string name="middle">Middle</string>
-    <string name="bad">Bad</string>
-    <string name="inferior">Inferior</string>
-    <string name="shutdown">Shutdown</string>
-    <string name="wind_speed">Wind speed</string>
-    <string name="fireplace_power_on">power on</string>
-    <string name="fireplace_power_off">power off</string>
+    <string name="upgrade_immediately">sofort upgraden</string>
+    <string name="about_kuzhai">Über %1$s</string>
+    <string name="info_updates">Dies ist die aktuellste Version</string>
+    <string name="err_internet">Netzwerkfehler, bitte stellen Sie sicher das sich das Gerät im Konfigurationsmodus befindet.</string>
+    <string name="not_found_device">Keine Geräte gefunden, bitte stellen Sie sicher das sich das Gerät im Konfigurationsmodus befindet.</string>
+    <string name="not_device">Gerät existiert nicht</string>
+    <string name="air_cleaner">Luftreiniger</string>
+    <string name="best">Sehr gut</string>
+    <string name="fine">Gut</string>
+    <string name="middle">Mittel</string>
+    <string name="bad">Schlecht</string>
+    <string name="inferior">Minderwertig</string>
+    <string name="shutdown">Herunterfahren</string>
+    <string name="wind_speed">Windgeschwindigkeit</string>
+    <string name="fireplace_power_on">Einschalten</string>
+    <string name="fireplace_power_off">Ausschalten</string>
 
-    <string name="air">Air:</string>
-    <string name="temperature">Temperature：</string>
-    <string name="c">Centigrade</string>
-    <string name="humidity">Humidity：</string>
-    <string name="not_internet_current">No available network</string>
+    <string name="air">Luft:</string>
+    <string name="temperature">Temperatur：</string>
+    <string name="c">Celsius</string>
+    <string name="humidity">Luftfeuchtigkeit：</string>
+    <string name="not_internet_current">Netzwerk nicht verfügbar</string>
 
 
-    <string name="device_not_online">Device offline</string>
+    <string name="device_not_online">Gerät ist offline</string>
 
-    <string name="operation_failure">Operation failed</string>
+    <string name="operation_failure">Vorgang fehlgeschlagen</string>
     <string name="online">(Online)</string>
     <string name="offline">(Offline)</string>
-    <string name="device_offline">Device offline, unable to control now</string>
-    <string name="device_manufacturers">Manufacturer:</string>
+    <string name="device_offline">Gerät offline, im Moment ist keine Bedienung möglich</string>
+    <string name="device_manufacturers">Hersteller:</string>
     <string name="device_type">Model:</string>
-    <string name="share_owner_device">Only owner can share the device</string>
+    <string name="share_owner_device">Nur der Besitzer kann Geräte teilen</string>
     <string name="device_upgraded_to">Device to be upgraded to</string>
 
 
     <string name="info_wait_upgrade">You are not allowed to operate during upgradation, the process may continue for a while, please wait</string>
-    <string name="info_sure_delete">Are you sure to remove this device?</string>
-    <string name="del_group">Are you sure to remove this group? </string>
-    <string name="ota_failed_upgrade">Device %1$s ota Upgrade failed</string>
-    <string name="ota_success_upgrade">Device %1$s ota Upgrade successfully</string>
-    <string name="ota_finish_upgrade">Device %1$s ota Upgradation complete</string>
+    <string name="info_sure_delete">Sind Sie sicher das Sie dieses Gerät entfernen möchten?</string>
+    <string name="del_group">Sind Sie sicher das die Gruppe entfernt werden soll? </string>
+    <string name="ota_failed_upgrade">Gerät %1$s ota Aktualisierung fehlgeschlagen</string>
+    <string name="ota_success_upgrade">Gerät %1$s ota Aktualisierung erfolgreich</string>
+    <string name="ota_finish_upgrade">Gerät %1$s ota Aktualisierung fertig</string>
 
-    <string name="firmware_upgradeing">Device %1$s is upgrading...</string>
-    <string name="background_updateing">Device %1$s is upgrading in background...</string>
+    <string name="firmware_upgradeing">Gerät %1$s wird aktualisiert...</string>
+    <string name="background_updateing">Gerät %1$s wird im Hintergrund aktualisiert...</string>
     <string name="sms_mustbenoempty">Verification code can not be empty</string>
 
-    <string name="tips">Reminder</string>
-    <string name="info_relogin">Login expired, please log in again.</string>
+    <string name="tips">Erinnerung</string>
+    <string name="info_relogin">Login abgelaufen, bitte erneut einloggen.</string>
 
     <string name="ok">Ok</string>
-    <string name="Save">Save</string>
-    <string name="cancel">Cancel</string>
-    <string name="test_wechat">Test wechat</string>
+    <string name="Save">Speichern</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="test_wechat">Teste wechat</string>
     <string name="group_exits">Grouping already exists</string>
     <string name="delete_group">All devices of the deleted group will still exist.Are you sure you want to delete the group?</string>
-    <string name="change_device">Change Device Name</string>
+    <string name="change_device">Ändere Gerätename</string>
 
     <string name="info_not_change">Only owner has authority to change device name</string>
-    <string name="change_name_success">Change successfully</string>
-    <string name="change_name_failed">Change name failed</string>
-    <string name="waiting">Waiting...</string>
-    <string name="divece_name">Device Name:</string>
+    <string name="change_name_success">Änderung erfolgreich</string>
+    <string name="change_name_failed">Namensänderung fehlgeschlagen</string>
+    <string name="waiting">Warte...</string>
+    <string name="divece_name">Gerätename:</string>
     <string name="device_name_not">Device name can not be empty</string>
     <string name="timer">Timing</string>
-    <string name="once">Once</string>
-    <string name="everyday">Everyday</string>
-    <string name="day">Day</string>
-    <string name="days">Workdays</string>
-    <string name="weekends">Weekend</string>
-    <string name="week">Week</string>
-    <string name="add_timer_success">Add successfully</string>
-    <string name="delete_timer_success">Delete successfully</string>
-    <string name="date">day</string>
+    <string name="once">Einmalig</string>
+    <string name="everyday">Jeden Tag</string>
+    <string name="day">Tag</string>
+    <string name="days">Werktags</string>
+    <string name="weekends">Wochenende</string>
+    <string name="week">Woche</string>
+    <string name="add_timer_success">Erfolgreich hinzugefügt</string>
+    <string name="delete_timer_success">Erfolgreich gelöscht</string>
+    <string name="date">Tag</string>
 
-    <string name="add_timer_failed">Failed to add timer</string>
-    <string name="delete_timer_failed">Failed to delete timer</string>
+    <string name="add_timer_failed">Timer nicht hinzugefügt</string>
+    <string name="delete_timer_failed">Timer nicht gelöscht</string>
     <string name="timer_set_err">Time overdue</string>
-    <string name="only_number">Only 8 timers allowed.</string>
+    <string name="only_number">Nur 8 Timer sind erlaubt.</string>
 
 
-    <string name="repassword">Reset password</string>
-    <string name="commit">Submit</string>
-    <string name="user_register">Registration</string>
-    <string name="password_not">Password can not be empty</string>
-    <string name="enter_phone_numbers">Phone number/Email</string>
-    <string name="registering">Registering...</string>
+    <string name="repassword">Passwortreset</string>
+    <string name="commit">Senden</string>
+    <string name="user_register">Registrierung</string>
+    <string name="password_not">Passwort darf nicht leer sein</string>
+    <string name="enter_phone_numbers">Telefonnummer/Email</string>
+    <string name="registering">Registriere...</string>
     <string name="resend">s resend</string>
     <string name="change_user_info">Change user info</string>
     <string name="enter_name">Enter new nickname</string>
